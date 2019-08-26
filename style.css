@@ -1,0 +1,63 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+
+
+
+html {
+    background-color: #2D2D2A;
+    color: #97DB4F;
+
+
+    font-size: 16pt;
+    fpnt
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Fira Code', monospace;
+    font-family: 'Lexend Deca', sans-serif;
+
+
+
+
+
+
+}
+
+
+.header {}
+
+
+ul {
+    padding: 0;
+    list-style-type: none;
+
+    width: 549px;
+
+    overflow: hidden;
+    background-color: #97DB4F;
+    outline: inherit;
+    outline-color: #E9FF70;
+    outline-style: solid;
+    outline-width: 5px
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #333;
+    text-align: center;
+    padding: 14px 17px;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: #E9FF70;
+}
